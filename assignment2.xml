@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="mystyle.css"?>
+<bookstore>
+
+  <book>
+    <title>Everyday Italian</title>
+    <author>Giada De Laurentiis</author>
+    <year>2005</year>
+    <price>30.00</price>
+    <publication>John Smith</publication>
+    <sold>500</sold>
+    <date>25/08/2005</date>
+  </book>
+
+  <book>
+    <title>Harry Potter</title>
+    <author>J K. Rowling</author>
+    <year>2005</year>
+    <price>29.99</price>
+    <publication>Bloomsbury Publishing</publication>
+    <sold>1000</sold>
+    <date>13/02/2005</date>
+  </book>
+
+  <book>
+    <title>XQuery Kick Start</title>
+    <author>James McGovern</author>
+    <year>2003</year>
+    <price>49.99</price>
+    <publication>James McGovern</publication>
+    <sold>750</sold>
+    <date>26/11/2003</date>
+  </book>
+
+  <book>
+    <title>Learning XML</title>
+    <author>Erik T. Ray</author>
+    <year>2001</year>
+    <price>39.95</price>
+    <publication>Simon St. Laurent</publication>
+    <sold>1200</sold>
+    <date>30/01/2001</date>
+  </book>
+
+  <book>
+    <title>Harry Potter</title>
+    <author>J K. Rowling</author>
+    <year>2005</year>
+    <price>29.99</price>
+    <publication>Bloomsbury Publishing</publication>
+    <sold>1000</sold>
+    <date>13/02/2005</date>
+  </book>
+
+  <book>
+    <title>Le petit prince</title>
+    <author>Antoine de Saint-Exupéry</author>
+    <year>1943</year>
+    <price>19.99</price>
+    <publication>Éditions Gallimard, Reynal and Hitchcock</publication>
+    <sold>1500</sold>
+    <date>06/04/2005</date>
+  </book>
+
+</bookstore>

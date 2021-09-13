@@ -1,0 +1,56 @@
+[
+   {
+      "title": "Everyday Italian",
+      "author": "Giada De Laurentiis",
+      "year": "2005",
+      "price": "30.00",
+      "publication": "John Smith",
+      "sold": "500",
+      "date": "25/08/2005"
+   },
+   {
+      "title": "Harry Potter",
+      "author": "J K. Rowling",
+      "year": "2005",
+      "price": "29.99",
+      "publication": "Bloomsbury Publishing",
+      "sold": "1000",
+      "date": "13/02/2005"
+   },
+   {
+      "title": "XQuery Kick Start",
+      "author": "James McGovern",
+      "year": "2003",
+      "price": "49.99",
+      "publication": "James McGovern",
+      "sold": "750",
+      "date": "26/11/2003"
+   },
+   {
+      "title": "Learning XML",
+      "author": "Erik T. Ray",
+      "year": "2001",
+      "price": "39.95",
+      "publication": "Simon St. Laurent",
+      "sold": "1200",
+      "date": "30/01/2001"
+   },
+   {
+      "title": "Harry Potter",
+      "author": "J K. Rowling",
+      "year": "2005",
+      "price": "29.99",
+      "publication": "Bloomsbury Publishing",
+      "sold": "1000",
+      "date": "13/02/2005"
+   },
+   {
+      "title": "Le petit prince",
+      "author": "Antoine de Saint-Exupéry",
+      "year": "1943",
+      "price": "19.99",
+      "publication": "Éditions Gallimard, Reynal and Hitchcock",
+      "sold": "1500",
+      "date": "06/04/2005"
+   }
+]
